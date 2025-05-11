@@ -98,9 +98,9 @@ CONTENT = {
         "📖 *Recommended Reading*\n\n"
         "1. Anisimov E.V. «Peter I: Benefit or Misfortune for Russia»\n"
         "2. Kamenetsky A.B. «The Russian Empire in the 18th Century»\n"
-        "4. Karamzin N.M. «History of the Russian State»\n"
-        "5. Solovyov S.M. «History of Russia from Ancient Times – Sergei Solovyov»\n"
-        "3. Robert K. Massie «Peter the Great: His Life and World»\n"
+        "3. Karamzin N.M. «History of the Russian State»\n"
+        "4. Solovyov S.M. «History of Russia from Ancient Times – Sergei Solovyov»\n"
+        "5. Robert K. Massie «Peter the Great: His Life and World»\n"
     ),
 }
 
